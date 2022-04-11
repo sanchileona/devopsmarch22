@@ -836,3 +836,122 @@ ls -al
 git init .
 git status
 git add file1
+ls
+ls -l
+ls -la
+git status
+git add
+gitt add .
+git init
+ls -la
+git status
+touch file1
+ls
+rm file1
+ls
+ls -l
+git config --global user.name "devops"
+ls
+git config --global user.email "devops@gmail.com"
+git config --list
+touch file1
+git status
+git add file1
+git status
+git commit -m "1st commit" 
+git status
+git add file1
+git status
+git log
+touch file2 file3
+ls -la
+git status
+ls
+git status
+git add .
+git status
+git commit -m "2nd commit"
+git status
+touch file4 file5
+git status
+git add .
+git status
+git commit -m "3rd commit" file5
+git status
+touch file6
+git status
+git log
+git --oneline
+git log --oneline
+git log -oneline -2
+git log --author devops
+git log --author sanchi
+git log --since 04-04-2018
+git log --untill 04-04-2018
+git log --until 04-04-2018
+git log --oneline
+git show a1bc16
+git show 
+ls
+git show 
+git log
+git log --oneline
+git show falbc16
+git show 8bcc273
+git show dff5f5d
+ls
+git log
+git log --oneline
+ls
+git clone https://github.com/sanchileona/devopsmarch22.git
+s
+ls
+git clone https://github.com/sanchileona/devopsmarch22.git
+ls
+cd devopsmarch22/
+ls
+cat firstfile1
+git push
+cd ..
+cd
+git push
+git status
+git log --oneline
+git clone https://github.com/sanchileona/devopsmarch22.git
+ls
+cd devopsmarch22/
+ls
+cat firstfile1
+vi firstfile1
+cat firstfile1
+git status
+git add .
+git commit -am "edited test file"
+touch f1
+git commit -am "f1 create"
+git add .
+it commit -m "f1 create"
+git commit -m "f1 create"
+git branch
+git branch branch1
+git branch
+ls
+git checkout branch1
+git branch
+touch f1 f2
+ls
+git status
+git add .
+git commit -m "f2 f3 created"
+git branch branch2
+git branch
+git checkout branch2
+ls
+cat >> f1
+git status
+git commit -am "edited f2"
+git checkout main
+git merge branch2
+git checkout branch1
+git merge branch2
+cat f2
