@@ -955,3 +955,82 @@ git merge branch2
 git checkout branch1
 git merge branch2
 cat f2
+git log 
+ls
+rm -fr
+ls
+rm -r file2
+rm -r file1
+rm -r file4
+rm-r file3
+rm -fr devopsmarch22/file6/myfirstfile/file5
+ls
+rm -r file5
+l
+sls
+ls
+rm -r devopsmarch22
+rm -r file3
+rm -r file6
+ls
+rm -r file_brq
+ls
+rm -r sanchifile1
+rm -r myfirstfile
+ls
+ls -l
+git status
+git log
+git init 
+git config --global user.name Goa
+git config --global user.email goa@gmail.com
+git config --list
+touch beach1
+ls
+git status
+git add beach1
+git status
+git commit -m "goa first visit"
+git status
+git log 
+touch beach2 beach3
+git status
+git add .
+git status
+git commit -m "goa second visit"
+git status
+touch beach4 beach5
+git status
+git add .
+git status
+git commit -m "goa third visit"
+git status
+git log --oneline
+git reset --soft 7a2122f
+git log --oneline
+git commit -m "goa third visit" beach5
+git status
+touch beach6
+git status
+git log
+git log --oneline
+git log -2
+git log -3
+git log --author goa
+git log since 02-02-2017
+git log --since 03-08-2016
+git log --until 08-09-2014
+ls
+git log --oneline
+git show a176d20
+git show 4683b73
+git show 7a2122f
+git status
+git log --oneline
+git reset --soft 7a2122f
+git status
+git reset head beach4 
+git reset beach5
+git status
+git reset --mixed a176d20
+git status
