@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649662033,,"wq!"
+|2,0,1650215629,,"wq!"
 :q!
 |2,0,1647427035,,"q!"
 :w
@@ -39,33 +39,46 @@
 "3	LINE	0
 	iiiiinsert mode
 |3,0,3,1,1,0,1647345983,"iiiiinsert mode"
+"w	CHAR	0
+	€kb€ýa;;€ýa;€ýa€ýa;€ýa;;€ýa;€ýanefvjhf€kb€kb€kb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kri;w
+|3,0,32,0,1,0,1650215608,"€kb€ýa;;€ýa;€ýa€ýa;€ýa;;€ýa;€ýanefvjhf€kb€kb€kb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kri;w"
 "-	CHAR	0
 	i
 |3,0,36,0,1,0,1647345528,"i"
 
 # File marks:
-'0  3  0  ~/devopsmarch22/firstfile1
-|4,48,3,0,1649662033,"~/devopsmarch22/firstfile1"
-'1  1  0  ~/bali
-|4,49,1,0,1647427035,"~/bali"
-'2  1  0  ~/bali
-|4,50,1,0,1647427035,"~/bali"
-'3  22  0  ~/bali
-|4,51,22,0,1647427021,"~/bali"
-'4  22  0  ~/bali
-|4,52,22,0,1647427021,"~/bali"
-'5  22  0  ~/bali
-|4,53,22,0,1647427021,"~/bali"
-'6  22  0  ~/bali
-|4,54,22,0,1647427021,"~/bali"
-'7  20  0  ~/bali
-|4,55,20,0,1647426964,"~/bali"
-'8  20  0  ~/bali
-|4,56,20,0,1647426964,"~/bali"
-'9  20  0  ~/bali
-|4,57,20,0,1647426964,"~/bali"
+'0  4  17  ~/devopsmarch22/firstfile1
+|4,48,4,17,1650215629,"~/devopsmarch22/firstfile1"
+'1  3  0  ~/devopsmarch22/firstfile1
+|4,49,3,0,1650214777,"~/devopsmarch22/firstfile1"
+'2  3  0  ~/devopsmarch22/firstfile1
+|4,50,3,0,1650214777,"~/devopsmarch22/firstfile1"
+'3  3  0  ~/devopsmarch22/firstfile1
+|4,51,3,0,1649662033,"~/devopsmarch22/firstfile1"
+'4  3  0  ~/devopsmarch22/firstfile1
+|4,52,3,0,1649662033,"~/devopsmarch22/firstfile1"
+'5  1  0  ~/bali
+|4,53,1,0,1647427035,"~/bali"
+'6  1  0  ~/bali
+|4,54,1,0,1647427035,"~/bali"
+'7  22  0  ~/bali
+|4,55,22,0,1647427021,"~/bali"
+'8  22  0  ~/bali
+|4,56,22,0,1647427021,"~/bali"
+'9  22  0  ~/bali
+|4,57,22,0,1647427021,"~/bali"
 
 # Jumplist (newest first):
+-'  4  17  ~/devopsmarch22/firstfile1
+|4,39,4,17,1650215629,"~/devopsmarch22/firstfile1"
+-'  3  0  ~/devopsmarch22/firstfile1
+|4,39,3,0,1650215532,"~/devopsmarch22/firstfile1"
+-'  3  0  ~/devopsmarch22/firstfile1
+|4,39,3,0,1650214777,"~/devopsmarch22/firstfile1"
+-'  1  0  ~/devopsmarch22/firstfile1
+|4,39,1,0,1650214704,"~/devopsmarch22/firstfile1"
+-'  1  0  ~/devopsmarch22/firstfile1
+|4,39,1,0,1650214704,"~/devopsmarch22/firstfile1"
 -'  3  0  ~/devopsmarch22/firstfile1
 |4,39,3,0,1649662033,"~/devopsmarch22/firstfile1"
 -'  1  0  ~/devopsmarch22/firstfile1
@@ -74,6 +87,36 @@
 |4,39,1,0,1647427035,"~/bali"
 -'  1  0  ~/bali
 |4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647427035,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
+-'  22  0  ~/bali
+|4,39,22,0,1647427021,"~/bali"
 -'  22  0  ~/bali
 |4,39,22,0,1647427021,"~/bali"
 -'  22  0  ~/bali
@@ -86,6 +129,42 @@
 |4,39,14,0,1647427007,"~/bali"
 -'  14  0  ~/bali
 |4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  14  0  ~/bali
+|4,39,14,0,1647427007,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
+-'  20  0  ~/bali
+|4,39,20,0,1647426964,"~/bali"
 -'  20  0  ~/bali
 |4,39,20,0,1647426964,"~/bali"
 -'  20  0  ~/bali
@@ -96,6 +175,24 @@
 |4,39,1,0,1647426814,"~/bali"
 -'  1  0  ~/bali
 |4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426814,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426809,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426809,"~/bali"
+-'  1  0  ~/bali
+|4,39,1,0,1647426809,"~/bali"
 -'  1  0  ~/bali
 |4,39,1,0,1647426809,"~/bali"
 -'  2  0  ~/bali
@@ -108,6 +205,36 @@
 |4,39,2,0,1647426782,"~/bali"
 -'  2  0  ~/bali
 |4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
+-'  2  0  ~/bali
+|4,39,2,0,1647426782,"~/bali"
 -'  10  12  ~/myfirstfile
 |4,39,10,12,1647346061,"~/myfirstfile"
 -'  10  12  ~/myfirstfile
@@ -142,140 +269,18 @@
 |4,39,10,12,1647346061,"~/myfirstfile"
 -'  10  12  ~/myfirstfile
 |4,39,10,12,1647346061,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  1  0  ~/myfirstfile
-|4,39,1,0,1647345936,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  11  0  ~/myfirstfile
-|4,39,11,0,1647345930,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345868,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
--'  12  0  ~/myfirstfile
-|4,39,12,0,1647345763,"~/myfirstfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/devopsmarch22/firstfile1
-	*	1649662021	0
-	"	3	0
-	^	3	0
-	.	2	26
+	*	1650215617	0
+	"	4	17
+	^	4	17
+	.	4	17
 	+	2	0
 	+	2	26
+	+	3	21
+	+	4	17
 	o	1	34
 
 > ~/bali

@@ -1034,3 +1034,51 @@ git reset beach5
 git status
 git reset --mixed a176d20
 git status
+ls
+git log
+cat > testcode2
+ls
+git status
+git add .
+git status
+git commit -m "developer_commit"
+git log --oneline
+git clone https://github.com/sanchileona/devopsmarch22.git
+ls
+cd devopsmarch22/
+ls
+cat testcode
+ls
+cat firstfile1
+ls
+cat firstfile1
+git clone https://github.com/sanchileona/devopsmarch22.git
+ls
+cat firstfile1
+vi firstfile1
+cat firstfile1
+git status
+ls
+rm -r devopsmarch22
+git add .
+git status
+git commit -m "modify using git"
+git status
+vi firstfile1
+git status
+git push
+git pull
+cat firstfile1
+git push
+git status
+git clone https://github.com/sanchileona/devopsmarch22.git
+ls
+cd devopsmarch22/
+ls
+rm -r devopsmarch22/
+ls
+cat firstfile1
+git status
+git add .
+git commit -m "modified git"
+git push
